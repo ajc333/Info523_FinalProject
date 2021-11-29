@@ -1,0 +1,390 @@
+name,type,location
+Abraham Lincoln Birthplace,NHP,KY
+Acadia,NP,ME
+Adams,NHP,MA
+African Burial Ground,NM,NY
+Agate Fossil Beds,NM,NE
+Alibates Flint Quarries,NM,TX
+Allegheny Portage Railroad,NHS,PA
+Amistad,NRA,TX
+Andersonville,NHS,GA
+Andrew Johnson,NHS,TN
+Aniakchak,NM & PRES,AK
+Antietam,NB,MD
+Apostle Islands,NL,WI
+Appomattox Court House,NHP,VA
+Arches,NP,UT
+Arkansas Post,NMEM,AR
+Arlington House The R.E. Lee,MEM,VA
+Assateague Island,NS,"MD, VA"
+Aztec Ruins,NM,NM
+Badlands,NP,SD
+Bandelier,NM,NM
+Belmount-Paul Women's Equality,NM,DC
+Bent's Old Fort,NHS,CO
+Bering Land Bridge,NPRES,AK
+Big Bend,NP,TX
+Big Cypress,NPRES,FL
+Big Hole,NB,MT
+Big South Fork,NRRA,"KY, TN"
+Big Thicket,NPRES,TX
+Bighorn Canyon,NRA,"MT, WY"
+Biscayne,NP,FL
+Black Canyon of the Gunnison,NP,CO
+Blue Ridge,PKWY,"NC, VA"
+Bluestone,NSR,WV
+Booker T. Washington,NM,VA
+Boston African American,NHS,MA
+Boston,NHP,MA
+Brices Cross Roads,NBS,MS
+Brown v. Board of Education,NHS,KS
+Bryce Canyon,NP,UT
+Buck Island Reef,NM,VI
+Buffalo,NR,AR
+Cabrillo,NM,CA
+Canaveral,NS,FL
+Cane River Creole,NHP,LA
+Canyon de Chelly,NM,AZ
+Canyonlands,NP,UT
+Cape Cod,NS,MA
+Cape Hatteras,NS,NC
+Cape Krusenstern,NM,AK
+Cape Lookout,NS,NC
+Capitol Reef,NP,UT
+Capulin Volcano,NM,NM
+Carl Sandburg Home,NHS,NC
+Carlsbad Caverns,NP,NM
+Carter G. Woodson Home,NHS,DC
+Casa Grade Ruins,NM,AZ
+Castillo de San Marcos,NM,FL
+Castle Clinton,NM,NY
+Catoctin Mountain,P,MD
+Cedar Breaks,NM,UT
+Cesar E. Chavez,NM,CA
+Chaco Culture,NHP,NM
+Chamizal,NMEM,TX
+Channel Islands,NP,CA
+Charles Pinckney,NHS,SC
+Charles Young Buffalo Soldiers,NM,OH
+Chattahoochee River,NRA,GA
+Chesapeake & Ohio Canal,NHP,"DC, MD, WV"
+Chickamauga & Chattanooga,NMP,"GA, TN"
+Chickasaw,NRA,OK
+Chiricahua,NM,AZ
+Christiansted,NHS,VI
+City of Rocks,NRES,ID
+Clara Barton,NHS,MD
+Colonial,NHP,VA
+Colorado,NM,CO
+Congaree,NP,SC
+Coronado,NMEM,AZ
+Cowpens,NB,SC
+Crater Lake,NP,OR
+Craters of the Moon,NM,ID
+Cumberland Gap,NHP,"KY, TN, VA"
+Cumberland Island,NS,GA
+Curecanti,NRA,CO
+Cuyahoga Valley,NP,OH
+Dayton Aviation Heritage,NHP,OH
+De Soto,NMEM,FL
+Death Valley,NP,"CA, NV"
+Delaware Water Gap,NRA,"NJ, PA"
+Denali,NP & PRES,AK
+Devils Postpile,NM,CA
+Devils Tower,NM,WY
+Dinosaur,NM,"CO, UT"
+Dry Tortugas,NP,FL
+Ebey's Landing,NHR,WA
+Edgar Allan Poe,NHS,PA
+Effigy Mounds,NM,IA
+Eisenhower,NHS,PA
+El Malpais,NM,NM
+El Morro,NM,NM
+Eleanor Roosevelt,NHS,NY
+Eugene O'Neill,NHS,CA
+Everglades,NP,FL
+Federal Hall,NMEM,NY
+Fire Island,NS,NY
+First Ladies,NHS,OH
+Flight 93,NMEM,PA
+Florissant Fossil Beds,NM,CO
+Ford's Theatre,NHS,DC
+Fort Bowie,NHS,AZ
+Fort Caroline,NMEM,FL
+Fort Davis,NHS,TX
+Fort Donelson,NB,"KY, TN"
+Fort Frederica,NM,GA
+Fort Laramie,NHS,WY
+Fort Larned,NHS,KS
+Fort Matanzas,NM,FL
+Fort McHenry,NM & HS,MD
+Fort Necessity,NB,PA
+Fort Point,NHS,CA
+Fort Pulaski,NM,GA
+Fort Raleigh,NHS,GA
+Fort Scott,NHS,KS
+Fort Smith,NHS,"AR, OK"
+Fort Stanwix,NM,NY
+Fort Sumter,NM,SC
+Fort Union,NM,NM
+Fort Union Trading Post,NHS,"MT, ND"
+Fort Vancouver,NHS,"OR, WA"
+Fort Washington,P,MD
+Fossil Butte,NM,WY
+Franklin Delano Roosevelt,MEM,DC
+Frederick Douglass,NHS,DC
+Frederick Law Olmsted,NHS,MA
+Fredericksburg & Spotsylvania,NMP,VA
+Friendship Hill,NHS,PA
+Gates of the Artic,NP & PRES,AK
+Gateway,NRA,"NY, NJ"
+Gauley River,NRA,WV
+General Grant,NMEM,NY
+George Rogers Clark,NHP,IN
+George Washington Birthplace,NM,VA
+George Washington Carver,NM,MO
+George Washington,MEM PKWY,"DC, MD, VA"
+Gettysburg,NMP,PA
+Gila Cliff Dwellings,NM,NM
+Glacier Bay,NP & PRES,AK
+Glacier,NP,MT
+Glen Canyon,NRA,"AZ, UT"
+Golden Gate,NRA,CA
+Golden Spike,NHS,UT
+Governors Island,NM,NY
+Grand Canyon,NP,AZ
+Grand Portage,NM,MN
+Grand Teton,NP,WY
+Grant-Kohrs Ranch,NHS,MT
+Great Basin,NP,NV
+Great Sand Dunes,NP & PRES,CO
+Great Smoky Mountains,NP,"NC, TN"
+Greenbelt,P,MD
+Guadalupe Mountains,NP,TX
+Guilford Courthouse,NMP,NC
+Gulf Islands,NS,"FL, MS"
+Hagerman Fossil Beds,NM,ID
+Haleakala,NP,HI
+Hamilton Grange,NMEM,NY
+Hampton,NHS,MD
+Harpers Ferry,NHP,"WV, VA, MD"
+Harry S Truman,NHS,MO
+Hawaii Volcanoes,NP,HI
+Herbert Hoover,NHS,IA
+Home of Franklin D. Roosevelt,NHS,NY
+Homestead NM of America,NM,NE
+Honouliuli,NM,HI
+Hopewell Culture,NHP,OH
+Hopewell Furnace,NHS,PA
+Horseshoe Bend,NMP,AL
+Hot Springs,NP,AR
+Hovenweep,NM,"CO, UT"
+Hubbell Trading Post,NHS,AZ
+Independence,NHP,PA
+Indiana Dunes,NL,IN
+Isle Royale,NP,MI
+James A. Garfield,NHS,OH
+Jean Lafitte,NHP & PRES,LA
+Jefferson,NEM,MO
+Jewel Cave,NM,SD
+Jimmy Carter,NHS,GA
+"John D. Rockefeller, Jr.",MEM PKWY,WY
+John Day Fossil Beds,NM,OR
+John F. Kennedy Center For the Performing Arts,,DC
+John F. Kennedy,NHS,MA
+John Muir,NHS,CA
+Johnstown Flood,NMEM,PA
+Joshua Tree,NP,CA
+Kalaupapa,NHP,HI
+Kaloko-Honokohau,NHP,HI
+Katmai,NP & PRES,AK
+Kenai Fjords,NP,AK
+Kennesaw Mountain,NBP,GA
+Keweenaw,NHP,MI
+Kings Canyon,NP,CA
+Kings Mountain,NMP,SC
+Klondike Gold Rush NHP Alaska,NHP,AK
+Klondike Gold Rush NHP Seattle,NHP,WA
+Knife River Indian Villages,NHS,ND
+Kobuk Valley,NP,AK
+Korean War Veterans,MEM,DC
+Lake Chelan,NRA,WA
+Lake Clark,NP & PRES,AK
+Lake Mead,NRA,"AZ, NV"
+Lake Meredith,NRA,TX
+Lake Roosevelt,NRA,WA
+Lassen Volcanic,NP,CA
+Lava Beds,NM,CA
+LBJ Memorial Grove on the Potomac,,DC
+Lewis & Clark,NHP,"OR, WA"
+Lincoln Boyhood,NMEM,IN
+Lincoln Home,NHS,IL
+Lincoln Memorial,MEM,DC
+Little Bighorn Battlefield,NM,MT
+Little River Canyon,NPRES,AL
+Little Rock Central High School,NHS,AR
+Longfellow House Washington's Headquarters,NHS,MA
+Lowell,NHP,MA
+Lyndon B. Johnson,NHP,TX
+Maggie L. Walker,NHS,VA
+Mammoth Cave,NP,KY
+Manassas,NBP,VA
+Manhattan Project,NHP,"NM, WA, TN"
+Manzanar,NHS,CA
+Marsh-Billings-Rockefeller,NHP,VT
+"Martin Luther King, Jr.",MEM,DC
+"Martin Luther King, Jr.",NHS,GA
+Martin Van Buren,NHS,NY
+Mary McLeod Bethune Council House,NHS,DC
+Mesa Verde,NP,CO
+Minidoka Internment,NHS,"ID, WA"
+Minute Man,NHP,MA
+Minuteman Missile,NHS,SD
+Mississippi,NRRA,MN
+Missouri,NRR,"SD, NE"
+Mojave,NPRES,CA
+Monocacy,NB,MD
+Montezuma Castle,NM,AZ
+Moores Creek,NB,NC
+Morristown,NHP,NJ
+Mount Rainier,NP,WA
+Mount Rushmore,NMEM,SD
+Muir Woods,NM,CA
+Natchez,NHP,MS
+Natchez Trace,PKWY,"AL, MS, TN"
+National Capital Parks Central,P,DC
+National Capital Parks Combined,P,DC
+National Capital Parks East,P,DC
+National Park of American Samoa,NP,American Samoa
+National Visitor Center,,DC
+Natural Bridges,NM,UT
+Navajo,NM,AZ
+New Bedford Whaling,NHP,MA
+New Orleans Jazz,NHP,LA
+New River Gorge,NR,WV
+Nez Perce,NHP,"ID, MT, OR, WA"
+Nicodemus,NHS,KS
+Ninety Six,NHS,SC
+Niobrara,NSR,NE
+Noatak,NPRES,AK
+North Cascades,NP,WA
+Obed,W & SR,TN
+Ocmulgee,NM,GA
+Oklahoma City,NMEM,OK
+Olympic,NP,WA
+Oregon Caves,NM & PRES,OR
+Organ Pipe Cactus,NM,AZ
+Ozark,NSR,MO
+Padre Island,NS,TX
+Palo Alto Battlefield,NHP,TX
+Paterson Great Falls,NHP,NJ
+Pea Ridge,NMP,AR
+Pecos,NHP,NM
+Pennsylvania Avenue,NHS,DC
+Perry's Victory & Intl. Peace,MEM,OH
+Petersburg,NB,VA
+Petrified Forest,NP,AZ
+Petroglyph,NM,NM
+Pictured Rocks,NL,MI
+Pinnacles,NP,CA
+Pipe Spring,NM,AZ
+Pipestone,NM,MN
+Piscataway,P,MD
+Point Reyes,NS,CA
+Port Chicago Naval Magazine,NM,CA
+President W.J. Clinton Birthplace Home,NHS,AR
+President's,P,DC
+Prince William Forest,P,VA
+Pu'uhonua o Honaunau,NHP,HI
+Pu'ukohola Heiau,NHS,HI
+Pullman,NM,IL
+Rainbow Bridge,NM,UT
+Redwood,NP,CA
+Richmond,NBP,VA
+Rio Grande,W & SR,TX
+River Raisin,NBP,MI
+Rock Creek,P,DC
+Rocky Mountain,NP,CO
+Roger Williams,NMEM,RI
+Rosie The Riveter WWII Home Front,NHP,CA
+Ross Lake,NRA,WA
+Russell Cave,NM,AL
+Sagamore Hill,NHS,NY
+Saguaro,NP,AZ
+Saint Croix Island International Historic Site,IHS,ME
+Saint Croix,NSR,"WI, MN"
+Saint Paul's Church,NHS,NY
+Saint-Gaudens,NHS,NH
+Salem Maritime,NHS,MA
+Salinas Pueblo Missions,NM,NM
+Salt River Bay,NHP & Ecological Pres,VI
+San Antonio Missions,NHP,TX
+San Francisco Maritime,NHP,CA
+San Juan Island,NHP,WA
+San Juan,NHS,PR
+Sand Creek Massacre,NHS,CO
+Santa Monica Mountains,NRA,CA
+Saratoga,NHP,NY
+Saugus Iron Works,NHS,MA
+Scotts Bluff,NM,NE
+Sequoia,NP,CA
+Shenandoah,NP,VA
+Shiloh,NMP,"TN, MS"
+Sitka,NHP,AK
+Sleeping Bear Dunes,NL,MI
+Springfield Armory,NHS,MA
+Statue of Liberty,NM,NY
+Steamtown,NHS,PA
+Stones River,NB,TN
+Stonewall,NM,NY
+Sunset Crater Volcano,NM,AZ
+Tallgrass Prairie,NPRES,KS
+Thaddeus Kosciuszko,NMEM,PA
+Theodore Roosevelt Birthplace,NHS,NY
+Theodore Roosevelt Inaugural,NHS,NY
+Theodore Roosevelt Island,,DC
+Theodore Roosevelt,NP,ND
+Thomas Edison,NHP,NJ
+Thomas Jefferson,MEM,DC
+Thomas Stone,NHS,MD
+Timpanogos Cave,NM,UT
+Timucuan,EHP,FL
+Tonto,NM,AZ
+Tumacacori,NHP,AZ
+Tupelo,NBS,MS
+Tuskegee Airmen,NHS,AL
+Tuskegee Institute,NHS,AL
+Tuzigoot,NM,AZ
+Ulysses S. Grant,NHS,MO
+Upper Delaware,S&RR,"NY, PA"
+Valles Caldera,NPRES,NM
+Valley Forge,NHP,PA
+Vanderbilt Mansion,NHS,NY
+Vicksburg,NMP,"MS, LA"
+Vietnam Veterans,MEM,DC
+Virgin Islands,NP,VI
+Voyageurs,NP,MN
+Waco Mammoth,NM,TX
+Walnut Canyon,NM,AZ
+War in the Pacific,NHP,GU
+Washington Monument,,DC
+Washita Battlefield,NHS,OK
+Weir Farm,NHS,CT
+Whiskeytown,NRA,CA
+White House,,DC
+White Sands,NM,NM
+Whitman Mission,NHS,WA
+William Howard Taft,NHS,OH
+Wilson's Creek,NB,MO
+Wind Cave,NP,SD
+Wolf Trap NP for the Performing Arts,NP,VA
+Women's Rights,NHP,NY
+World War II Memorial,MEM,DC
+World War II Valor in the Pacific,NM,"HI, AK, CA"
+Wrangell-St. Elias,NP & PRES,AK
+Wright Brothers,NMEM,NC
+Wupatki,NM,AZ
+Yellowstone,NP,"ID, MT, WY"
+Yosemite,NP,CA
+Yukon-Charley Rivers,NPRES,AK
+Zion,NP,UT
